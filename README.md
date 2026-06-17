@@ -21,7 +21,7 @@ https://endless-sphere.com/sphere/threads/1975-honda-cb-750-conversion.129692/
 # Timeline of work so far:
 
 2025 Nov-Dec
-Purchased titled ‘75 Honda CB 750 Frame
+Purchased titled ‘75 Honda CB 750 Frame\n
 Purchased 200 extra 18650 cells at 2000mAh and 10A Peak discharge
 Purchased 18650 Spacers 4x5
 Purchased new triple tree and front stanchions for the Bike
