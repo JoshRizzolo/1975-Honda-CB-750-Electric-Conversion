@@ -21,6 +21,7 @@ https://endless-sphere.com/sphere/threads/1975-honda-cb-750-conversion.129692/
 # Timeline of work so far:
 
 2025 Nov-Dec
+
 Purchased titled ‘75 Honda CB 750 Frame
 
 Purchased 200 extra 18650 cells at 2000mAh and 10A Peak discharge
@@ -31,19 +32,33 @@ Purchased new triple tree and front stanchions for the Bike
 
 
 2026 Jan-April
+
 Spec’d Molicel P42A cells
+
 Spec’d 336 cells for 28s12p config at 110V
+
 Spec’ed ANT 21-30S BMS
+
 Designed and printed 6x14 21700 spacers (x16)
+
 Designed, ordered, and received pre-fabbed 0.8mm copper bus bars
+
 Purchased 0.15mm copper and nickel strip
 
+
+
 2026 May-June 
+
 Purchased battery spot-welder
+
 Purchased Analog discovery 2
+
 Spec’d Temp sensors and MCU for Battery Monitoring Board (BMB)
+
 Started designing PCB for BMB in KiCAD
+
 Purchased temp sensors and MCU breakout board for BMB
+
 
 
  
