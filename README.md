@@ -20,7 +20,7 @@ https://endless-sphere.com/sphere/threads/1975-honda-cb-750-conversion.129692/
 
 # Timeline of work so far:
 
-2025 Nov-Dec
+*2025 Nov-Dec*
 
 Purchased titled ‘75 Honda CB 750 Frame
 
@@ -31,7 +31,7 @@ Purchased 18650 Spacers 4x5
 Purchased new triple tree and front stanchions for the Bike
 
 
-2026 Jan-April
+*2026 Jan-April*
 
 Spec’d Molicel P42A cells
 
@@ -47,7 +47,7 @@ Purchased 0.15mm copper and nickel strip
 
 
 
-2026 May-June 
+*2026 May-June*
 
 Purchased battery spot-welder
 
