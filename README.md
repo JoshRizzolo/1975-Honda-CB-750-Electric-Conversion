@@ -44,6 +44,8 @@ Designed and printed 6x14 21700 spacers (x16)
 
 Designed, ordered, and received pre-fabbed 0.8mm copper bus bars
 
+![alt text](<Bus Bars 2-1.jpg>)
+
 Purchased 0.15mm copper and nickel strip
 
 ----------------------------------------------------------------------------------------------------------------
