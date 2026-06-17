@@ -20,7 +20,7 @@ https://endless-sphere.com/sphere/threads/1975-honda-cb-750-conversion.129692/
 
 # Timeline of work so far:
 
-*2025 Nov-Dec*
+_2025 Nov-Dec_
 
 Purchased titled ‘75 Honda CB 750 Frame
 
