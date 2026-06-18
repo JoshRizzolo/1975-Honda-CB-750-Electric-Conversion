@@ -84,15 +84,21 @@ Designed, ordered, and received pre-fabbed 0.8mm copper bus bars
 
 **2026 May-June**
 
-Purchased battery spot-welder (AWithZ UF20B)
+Purchased battery spot-welder (AWithZ UF20B) with 10.5kW output capacity
 
-Purchased Analog discovery 2
+Purchased Analog discovery 2 for oscilloscope and function generator features
 
 Spec’d Temp sensors and MCU for Battery Monitoring Board (BMB) (DS18B20 and STM32G0B1 respectively)
 
+Purchased temp sensors and MCU breakout board for BMB
+
+Planned for 4 temp sensors per GPIO pin on the MCU and wanted many extra GPIO pins for future functions
+
+Planned for microSD and BLE functionality to store and transmit data logs
+
 Started designing PCB for BMB in KiCAD
 
-Purchased temp sensors and MCU breakout board for BMB
+
 
 
 
