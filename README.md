@@ -92,14 +92,13 @@ Spec’d Temp sensors and MCU for Battery Monitoring Board (BMB) (DS18B20 and ST
 
 Purchased temp sensors and MCU breakout board for BMB
 
+Planned for 4 temp sensors per GPIO pin on the MCU and wanted many extra GPIO pins for future functions including microSD and BLE functionality to store and transmit data logs
+
 <img src="https://github.com/JoshRizzolo/1975-Honda-CB-750-Electric-Conversion/blob/main/STM32G0B1%20Breakout%20board%20and%20DS18B20.jpg" width="30%" height=30%>
 
-Planned for 4 temp sensors per GPIO pin on the MCU and wanted many extra GPIO pins for future functions
+Installed STM32CubeIDE for VSCode
 
-Planned for microSD and BLE functionality to store and transmit data logs
-
-Started designing PCB for BMB in KiCAD
-
+Investigated connecting to the breakout board and starting projects
 
 
 
